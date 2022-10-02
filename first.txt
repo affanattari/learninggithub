@@ -1,0 +1,4 @@
+i want to go into commit
+git status
+git init
+git log
